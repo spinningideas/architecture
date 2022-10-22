@@ -15,8 +15,14 @@ See also:
 
 Various architecture related pages
 
-https://github.com/spinningideas/architecture/wiki
+- https://github.com/spinningideas/architecture/wiki
+
+# React JS
+
+One set of diagrams in this repo is for React JS front end architecture - see more:
+
+- https://github.com/spinningideas/resources/wiki/React-JS
 
 # Books
 
-https://github.com/spinningideas/resources/wiki/Books#architecturedesign
+- https://github.com/spinningideas/resources/wiki/Books#architecturedesign
