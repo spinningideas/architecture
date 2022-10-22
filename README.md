@@ -6,6 +6,11 @@ Various architecture related artifacts and diagrams and wiki pages
 
 See the repo for https://www.diagrams.net/ based diagrams that have various architectural perspectives for use as a reference or starting point for your own diagrams
 
+See also:
+
+- Security 
+  -  https://github.com/spinningideas/security
+
 # Wiki
 
 Various architecture related pages
